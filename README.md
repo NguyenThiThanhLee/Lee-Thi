@@ -5,4 +5,5 @@ Nguyễn Thị Thanh	Lê
 Đà Nẵng
 
 from K72 HNUE
-girl who have 4.0 GPA
+
+graduating from HNUE with a 4.0 GPA
